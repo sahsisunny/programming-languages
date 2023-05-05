@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_GUI/Applets/Applets.iml" filepath="$PROJECT_DIR$/Java_GUI/Applets/Applets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_GUI/Java Applet Notes/Java Applet Notes.iml" filepath="$PROJECT_DIR$/Java_GUI/Java Applet Notes/Java Applet Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_College/Java_College.iml" filepath="$PROJECT_DIR$/Java_College/Java_College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_GUI/Java_GUI.iml" filepath="$PROJECT_DIR$/Java_GUI/Java_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Practice/Java_Practice.iml" filepath="$PROJECT_DIR$/Java_Practice/Java_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Practice/MySirG Class/MySirG Class.iml" filepath="$PROJECT_DIR$/Java_Practice/MySirG Class/MySirG Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Practice/Thread/Thread.iml" filepath="$PROJECT_DIR$/Java_Practice/Thread/Thread.iml" />
+    </modules>
+  </component>
+</project>

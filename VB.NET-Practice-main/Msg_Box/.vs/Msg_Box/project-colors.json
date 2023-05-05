@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d79da900-0701-41d5-b79a-a25db98bd2cf": {
+      "ProjectGuid": "d79da900-0701-41d5-b79a-a25db98bd2cf",
+      "DisplayName": "Msg_Box",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

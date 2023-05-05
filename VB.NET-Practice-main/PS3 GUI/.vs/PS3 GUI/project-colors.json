@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c19744f0-fbe4-42a8-8469-0d5653a4d379": {
+      "ProjectGuid": "c19744f0-fbe4-42a8-8469-0d5653a4d379",
+      "DisplayName": "PS3 GUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

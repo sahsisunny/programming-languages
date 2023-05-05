@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Memory_Reducer/1.0.0": {
+        "runtime": {
+          "Memory_Reducer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Memory_Reducer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

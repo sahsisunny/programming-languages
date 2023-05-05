@@ -1,0 +1,4 @@
+1. How to start AlphabetCrypter ?
+Ans.- double click on "run.bat" file.
+
+Requirement :	Java jdk-8.0.1 to above

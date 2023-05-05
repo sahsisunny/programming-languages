@@ -1,0 +1,16 @@
+C:\Users\sahsi\source\repos\if_else_statement\bin\Debug\net6.0-windows\if_else_statement.exe
+C:\Users\sahsi\source\repos\if_else_statement\bin\Debug\net6.0-windows\if_else_statement.deps.json
+C:\Users\sahsi\source\repos\if_else_statement\bin\Debug\net6.0-windows\if_else_statement.runtimeconfig.json
+C:\Users\sahsi\source\repos\if_else_statement\bin\Debug\net6.0-windows\if_else_statement.dll
+C:\Users\sahsi\source\repos\if_else_statement\bin\Debug\net6.0-windows\ref\if_else_statement.dll
+C:\Users\sahsi\source\repos\if_else_statement\bin\Debug\net6.0-windows\if_else_statement.pdb
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.Form1.resources
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.vbproj.GenerateResource.cache
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.dll
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\ref\if_else_statement.dll
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.pdb
+C:\Users\sahsi\source\repos\if_else_statement\obj\Debug\net6.0-windows\if_else_statement.genruntimeconfig.cache

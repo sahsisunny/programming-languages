@@ -1,0 +1,14 @@
+C:\Users\sahsi\source\repos\PracticalCopy5\bin\Debug\net6.0\PracticalCopy5.exe
+C:\Users\sahsi\source\repos\PracticalCopy5\bin\Debug\net6.0\PracticalCopy5.deps.json
+C:\Users\sahsi\source\repos\PracticalCopy5\bin\Debug\net6.0\PracticalCopy5.runtimeconfig.json
+C:\Users\sahsi\source\repos\PracticalCopy5\bin\Debug\net6.0\PracticalCopy5.dll
+C:\Users\sahsi\source\repos\PracticalCopy5\bin\Debug\net6.0\ref\PracticalCopy5.dll
+C:\Users\sahsi\source\repos\PracticalCopy5\bin\Debug\net6.0\PracticalCopy5.pdb
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.dll
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\ref\PracticalCopy5.dll
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.pdb
+C:\Users\sahsi\source\repos\PracticalCopy5\obj\Debug\net6.0\PracticalCopy5.genruntimeconfig.cache

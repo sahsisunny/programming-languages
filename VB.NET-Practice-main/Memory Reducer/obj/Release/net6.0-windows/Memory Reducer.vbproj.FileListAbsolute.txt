@@ -1,0 +1,20 @@
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\Memory_Reducer.exe
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\Memory_Reducer.deps.json
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\Memory_Reducer.runtimeconfig.json
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\ref\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\Memory_Reducer.pdb
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.vbproj.AssemblyReference.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory_Reducer.About.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory_Reducer.Form1.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory_Reducer.Resources.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory_Reducer.Options.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.vbproj.GenerateResource.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\ref\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory_Reducer.pdb
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\Memory Reducer.genruntimeconfig.cache

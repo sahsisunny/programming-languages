@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7670eea2-582c-4662-9d5b-85458e120d23": {
+      "ProjectGuid": "7670eea2-582c-4662-9d5b-85458e120d23",
+      "DisplayName": "Text Crypter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

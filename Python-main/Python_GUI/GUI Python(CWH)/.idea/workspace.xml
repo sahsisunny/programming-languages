@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05df3f4e-257f-4a2e-b6d4-b784173fd4c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GUI Python(CWH).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/.idea/My_Sir_G_Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/10. Student pass or Fail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/1. Print 1st 10 Natural Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/10. Product of first N odd Natural number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/2. Print 1st 10 Natural Number in Reverse Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/3. Print 1st 10 Odd Natural Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/4. Print 1st 10 Even Natural Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/5. Print N natural number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/7. Sum of first N natural number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/8. sum of 1st N odd natural number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_3_While_Loop/9. Factorial of number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_4_Loop/1. Given number is Prime or not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_4_Loop/2. Print next prime number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/AIVirtualMouse/.idea/AIVirtualMouse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/AIVirtualMouse/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/AIVirtualMouse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/AIVirtualMouse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/AIVirtualMouse/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/AIVirtualMouse/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/FaceRecognitionProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/FaceRecognitionProject/.idea/FaceRecognitionProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/FaceRecognitionProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/FaceRecognitionProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/FaceRecognitionProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV/FaceRecognitionProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/records.txt" beforeDir="false" afterPath="$PROJECT_DIR$/records.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_1_IO_Operators_DataTypes/4. simple interest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_1_IO_Operators_DataTypes/4. simple interest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/1. check num is even or odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/1. check num is even or odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/2. divisible by 5 or not.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/2. divisible by 5 or not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/3. check num is +ve, -ve or zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/3. check num is +ve, -ve or zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/4. greatest among 3 numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/4. greatest among 3 numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/8. set 3 words in dict order (words given by User).py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Practice/Python_Practice/My_Sir_G_Assignments/Assign_2_DecisionControl/8. set 3 words in dict order (words given by User).py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="201A1KAgU7c4BNHxMLmCDmuRSxV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Menu">
+    <configuration name="Class and Objects in GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI Python(CWH)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class and Objects in GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI Python(CWH)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="More On Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI Python(CWH)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/More On Tkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Notepad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI Python(CWH)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Notepad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScrollBar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI Python(CWH)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrollBar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Menu" />
+        <item itemvalue="Python.More On Tkinter" />
+        <item itemvalue="Python.ScrollBar" />
+        <item itemvalue="Python.Notepad" />
+        <item itemvalue="Python.Class and Objects in GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05df3f4e-257f-4a2e-b6d4-b784173fd4c5" name="Changes" comment="" />
+      <created>1635201505991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635201505991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+var1 = "hello world"  # var means varaiable this is string
+var2 = "33"  # int
+var3 = "33"
+var4 = "mini"
+var5 = 68
+var6 = 889
+print(var1, var2 + var3)
+print(type(var1))
+print(type(var2))
+print(type(var3))
+print(type(var4))
+print(10 * "hello world\n")
+print(16 * "bca sem3\n")
+print(100 * "bnc college\n")  # \n helps to move onto the next line
+print(var3 + var2)
+print(int(var2) + int(var3))
+print(int(var2) + int(var3))
+print(int(var5) + int(var3))
+print(int(var5) + int(var6))
+print(var5 + var6)
+print(15 * "hello mini\n")
+print(13 * "goaway ")
+print("my number is")
+inpnum = input()
+print("my number is ", int(inpnum) + 10)
+print("enter your first number")
+n1 = input()
+print("enter your second number")
+n2 = input()
+print("sum of these number", int(n1) + int(n2))
+print("enter your number")
+n1 = input()
+print("enter your second number")
+n2 = input()
+print("subtraction of these number", int(n1) - int(n2))
+print("enter your first number")
+n1 = input()
+print("enyer your second number")
+n2 = input()
+print("sum of these two number is", int(n1) + int(n2))

@@ -1,0 +1,14 @@
+C:\Users\sahsi\source\repos\arrayinput\bin\Debug\net6.0\arrayinput.exe
+C:\Users\sahsi\source\repos\arrayinput\bin\Debug\net6.0\arrayinput.deps.json
+C:\Users\sahsi\source\repos\arrayinput\bin\Debug\net6.0\arrayinput.runtimeconfig.json
+C:\Users\sahsi\source\repos\arrayinput\bin\Debug\net6.0\arrayinput.dll
+C:\Users\sahsi\source\repos\arrayinput\bin\Debug\net6.0\ref\arrayinput.dll
+C:\Users\sahsi\source\repos\arrayinput\bin\Debug\net6.0\arrayinput.pdb
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.dll
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\ref\arrayinput.dll
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.pdb
+C:\Users\sahsi\source\repos\arrayinput\obj\Debug\net6.0\arrayinput.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0f4dbe0-7527-41d6-ae2c-cce24d30deef": {
+      "ProjectGuid": "c0f4dbe0-7527-41d6-ae2c-cce24d30deef",
+      "DisplayName": "CIrcle in Console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

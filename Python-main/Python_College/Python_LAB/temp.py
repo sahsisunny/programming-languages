@@ -1,0 +1,1 @@
+print(chr(65))  # Convert ASCII to Alphabetprint(ord('A'))  # Convert Alphabet to ASCIIprint(chr(97))print(ord('a'))for i in range(65, 65 + 25):    print(chr(i), end="")print()for i in range(97, 97 + 25):    print(chr(i), end="")s = 4char = 'l'result = ""result = result + chr((ord(char) + s - 65) % 26 + 65)print(result)

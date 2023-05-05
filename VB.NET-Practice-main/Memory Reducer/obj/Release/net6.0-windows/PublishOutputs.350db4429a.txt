@@ -1,0 +1,5 @@
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\publish\Memory_Reducer.exe
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\publish\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\publish\Memory_Reducer.deps.json
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\publish\Memory_Reducer.runtimeconfig.json
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\publish\Memory_Reducer.pdb

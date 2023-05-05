@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40164a6d-3fef-4d84-a064-5612c5eed60b": {
+      "ProjectGuid": "40164a6d-3fef-4d84-a064-5612c5eed60b",
+      "DisplayName": "Memory Reducer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

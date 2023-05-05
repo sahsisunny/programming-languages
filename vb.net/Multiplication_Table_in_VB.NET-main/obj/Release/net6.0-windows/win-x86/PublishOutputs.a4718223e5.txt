@@ -1,0 +1,2 @@
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\publish\win-x86\Multiplication_Table.pdb
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\publish\win-x86\Multiplication_Table.exe

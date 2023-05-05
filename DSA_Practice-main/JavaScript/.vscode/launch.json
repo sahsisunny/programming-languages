@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://pattern2();",
+      "request": "launch",
+      "url": "http://pattern2();"
+    }
+  ]
+}

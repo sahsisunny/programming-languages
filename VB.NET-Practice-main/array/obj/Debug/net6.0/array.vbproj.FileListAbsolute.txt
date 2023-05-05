@@ -1,0 +1,15 @@
+C:\Users\sahsi\source\repos\array\bin\Debug\net6.0\array.exe
+C:\Users\sahsi\source\repos\array\bin\Debug\net6.0\array.deps.json
+C:\Users\sahsi\source\repos\array\bin\Debug\net6.0\array.runtimeconfig.json
+C:\Users\sahsi\source\repos\array\bin\Debug\net6.0\array.dll
+C:\Users\sahsi\source\repos\array\bin\Debug\net6.0\ref\array.dll
+C:\Users\sahsi\source\repos\array\bin\Debug\net6.0\array.pdb
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.vbproj.AssemblyReference.cache
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.dll
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\ref\array.dll
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.pdb
+C:\Users\sahsi\source\repos\array\obj\Debug\net6.0\array.genruntimeconfig.cache

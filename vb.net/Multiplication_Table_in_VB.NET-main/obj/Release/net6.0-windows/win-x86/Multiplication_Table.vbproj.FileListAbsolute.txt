@@ -1,0 +1,17 @@
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\win-x86\Multiplication_Table.exe
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\win-x86\Multiplication_Table.deps.json
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\win-x86\Multiplication_Table.runtimeconfig.json
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\win-x86\Multiplication_Table.dll
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\win-x86\ref\Multiplication_Table.dll
+C:\Users\sahsi\source\repos\Multiplication_Table\bin\Release\net6.0-windows\win-x86\Multiplication_Table.pdb
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.Form1.resources
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.vbproj.GenerateResource.cache
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.dll
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\ref\Multiplication_Table.dll
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.pdb
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.genruntimeconfig.cache
+C:\Users\sahsi\source\repos\Multiplication_Table\obj\Release\net6.0-windows\win-x86\Multiplication_Table.Resources.resources

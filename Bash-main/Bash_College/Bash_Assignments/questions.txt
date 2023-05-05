@@ -1,0 +1,20 @@
+Write a script to add, substract, multiply, divide and modulas of two numbers.
+Write a script to to input two numbers and calculate its sum.
+Write a script to input the employee ID , name and employee salary. Calculate the DA 50% of basic salary, 20% HRA of basic salary, also evaluate the salary of a employee.
+Write a script to input student roll, name and marks of five subjectsmarks. Calculate total marks and percentage of the marks.
+Write a script to input two numbers and swap/interchange the numbers. Display the numbers before and after swaping.
+Write a script to input the radius of the circle and evaluate one and parimeter of the circle.
+Write a script to input the four item name, quantity and unique price of each item. Calculate the total price of the item.
+Write a script to print the even number from 1 to 10.
+Write a script to square of the number from 1 to 10.
+Write a script to input two numbers and swap them.
+Write a script to input any number and print its factorial.
+Write a script to input a number and prints its reverse order.
+Write a script to input a number and prints its sum of digits.
+Write a script to print the Fibonacci series. like 0,1,2,3,5……...n.
+Write a script to print Armstrong number.
+Write a script to print Prime numbers.
+Write a script to print Palindrome.
+Write a script to print Decimal to binary and vice versa.
+Write a script to print Binary to decimal.
+Write a script to print multiplication table of number given by user.

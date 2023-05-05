@@ -1,0 +1,2 @@
+C:\Users\sahsi\source\repos\Student Form\bin\Release\net6.0-windows\publish\win-x64\Student Form.pdb
+C:\Users\sahsi\source\repos\Student Form\bin\Release\net6.0-windows\publish\win-x64\Student Form.exe

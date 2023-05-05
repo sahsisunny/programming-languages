@@ -1,0 +1,19 @@
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\win-x64\Memory_Reducer.exe
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\win-x64\Memory_Reducer.deps.json
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\win-x64\Memory_Reducer.runtimeconfig.json
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\win-x64\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\win-x64\ref\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\bin\Release\net6.0-windows\win-x64\Memory_Reducer.pdb
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory_Reducer.About.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory_Reducer.Form1.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory_Reducer.Resources.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory_Reducer.Options.resources
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory Reducer.vbproj.GenerateResource.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory Reducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory Reducer.AssemblyInfoInputs.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory Reducer.AssemblyInfo.vb
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory Reducer.vbproj.CoreCompileInputs.cache
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\ref\Memory_Reducer.dll
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory_Reducer.pdb
+C:\Users\sahsi\source\repos\Memory Reducer\obj\Release\net6.0-windows\win-x64\Memory Reducer.genruntimeconfig.cache

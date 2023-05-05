@@ -1,0 +1,5 @@
+1       Sunny   Computer  90
+2       Deepak  Python    98
+3       Baba    SSAD      99
+4       Sameer  Stastics  95
+5       Prince  OS        97
